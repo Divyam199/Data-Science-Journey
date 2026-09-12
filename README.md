@@ -5,7 +5,7 @@
 
 ## 📂 - Foundations
 
-### 📝 [Introduction to Data Science](00-Foundations/01_introduction_to_data_science.ipynb)
+### 📝 [Introduction to Data Science](00_Foundations/01_introduction_to_data_science.ipynb)
     * 
 
 ---
