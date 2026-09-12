@@ -3,16 +3,16 @@
 
 ---
 
-## 00-Foundations
+## 📂 - Foundations
 
-### 01_introduction_to_data_science.ipynb
+### 📝 01_introduction_to_data_science.ipynb
     * 
 
 ---
 
-## 01-Numpy
+## 📂 - Numpy
 
-### 01_numpy.ipynb
+### 📓 01_numpy.ipynb
     * 
 
 ---
