@@ -3,7 +3,7 @@
 
 ---
 
-### 01-Numpy
+## 01-Numpy
 
-#### 01_numpy.ipynb
+### 01_numpy.ipynb
     * 
