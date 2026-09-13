@@ -3,16 +3,32 @@
 
 ---
 
-## 📂 - Foundations
-
-### 📝 [Introduction to Data Science](00_Foundations/01_introduction_to_data_science.ipynb)
-    * 
+## 📝 [Introduction to Data Science](00_introduction_to_data_science.ipynb)
 
 ---
 
 ## 📂 - Numpy
 
-### 📓 01_numpy.ipynb
+### 📓 [01 Numpy (Coming Soon)](01_Numpy\01_numpy.ipynb)
+    * What is NumPy?
+    * Installing & Importing NumPy
+    * Creating NumPy Arrays
+    * Dimensions, Shape & Size
+    * Accessing Array Values
+    * Indexing & Slicing
+    * Array Operations
+    * Replacing Values
+    * Mathematical Functions
+    * Reshaping Arrays
+    * Basic Statistics
+    * Filtering Data
+    * Combining Arrays
+
+---
+
+## 📂 - Pandas
+
+### 📓 [01 Pandas](02_Pandas\01_pandas.ipynb)
     * 
 
 ---
