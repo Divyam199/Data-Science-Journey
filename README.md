@@ -9,7 +9,7 @@
 
 ## 📂 - Numpy
 
-### 📓 [01 Numpy (Coming Soon)](01_Numpy\01_numpy.ipynb)
+### 📓 [01 Numpy (Coming Soon)](01_Numpy/01_numpy.ipynb)
     * What is NumPy?
     * Installing & Importing NumPy
     * Creating NumPy Arrays
