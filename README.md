@@ -3,7 +3,16 @@
 
 ---
 
-## 📝 [Introduction to Data Science](00_introduction_to_data_science.ipynb)
+## 📂 - Introduction
+
+### 📝 [Introduction to Data Science](00_introduction_to_data_science.ipynb)
+    * What is Data Science
+    * Why Data Science
+    * What is Data
+    * What is Information
+    * Data Science Workflow
+    * Data Science vs Data Analyst
+    * Tools used in Data Science
 
 ---
 
