@@ -1,4 +1,4 @@
-# Data-Science-Journey
+# 🚀Data-Science-Journey
 ### Entering Data Science and Data Analytics — learning, practice, and projects.
 
 ---
@@ -18,7 +18,7 @@
 
 ## 📂 - Numpy
 
-### 📓 [01 Numpy (Coming Soon)](01_Numpy/01_numpy.ipynb)
+### 📓 [01 Numpy](01_Numpy/01_numpy.ipynb)
     * What is NumPy?
     * Installing & Importing NumPy
     * Creating NumPy Arrays
@@ -32,6 +32,9 @@
     * Basic Statistics
     * Filtering Data
     * Combining Arrays
+
+### 📓 [02 Numpy Mini Project(Coming Soon)](01_Numpy/02_mini_project_numpy.ipynb)
+    * 
 
 ---
 
