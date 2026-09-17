@@ -80,7 +80,17 @@
     * Saving Data
 
 #### 🐼 [02 Pandas ](Learning/02_Pandas/02_pandas.ipynb)
-    *
+    * Data Cleaning and Preprocessing
+    * What is Data Cleaning
+    * Exploring Dirty Data
+    * Handling Missing Values
+    * Removing Duplicates
+    * Cleaning Text Data
+    * Rename Columns
+    * Change Datatype
+    * Cleaning Date Columns
+    * Replacing Incorrect Values
+    * Data CLeaning Workflow
 
 ---
 
