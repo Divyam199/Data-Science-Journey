@@ -97,6 +97,18 @@
 ### 📂 - Matplotlib_and_Seaborn
 
 #### 📊 [01 Matplotlib ](Learning/03_Matplotlib_and_Seaborn/01_charts.ipynb)
-    * 
+    * What is Data Visualization
+    * Introduction to Matplotlib
+    * Introduction to Seaborn
+    * Choosing the right chart
+    * Bar Chart
+    * Line Chart
+    * Pie Chart
+    * Histogram
+    * Scatter Plot
+    * Box Plot
+    * Count Plot
+    * Heatmap
+    * Full Dashboard
 
 ---
