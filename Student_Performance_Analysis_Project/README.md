@@ -13,7 +13,7 @@ and subject scores relate to overall percentage?
 - Consistent data types
 
 ## Charts
-![alt text](image.png)
+![alt text](Student_Performance_Analysis_Project\image.png)
 
 ## 📈 Key Findings
 | Metric | Value |
