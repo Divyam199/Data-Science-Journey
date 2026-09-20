@@ -112,3 +112,18 @@
     * Full Dashboard
 
 ---
+
+### 📂 - Machine Learning
+
+#### 🐼 [01 Machine Learning ](Learning/04_Machine_Learning/01_Machine_Learning.ipynb)
+    * Introduction to Machine Learning
+    * Understanding Feature and Target
+    * Training Data vs Testing Data
+    * Model Evaluation 
+    * Overfitting and Undefitting
+    * AI vs Machine Learning vs Deep Learning
+
+---
+
+
+---
