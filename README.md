@@ -1,24 +1,6 @@
 # 🚀Data-Science-Journey
-### Entering Data Science and Data Analytics — learning, practice, and projects.
+### Entering Data Science and Data Analytics — learning and practice.
 
----
-## 📂 - Student_Performance_Analysis_Project
-
-### 🐼 [Pandas Mini Project](Student_Performance_Analysis_Project/01_mini_project_pandas.ipynb)
-    * Student Performance Analysis
-    * Importing DataFrame
-    * Creating DataFrame
-    * Exploring Dataset
-    * Adding a Column
-    * Student Performance Dashboard
-    * Basic Analysis
-    * Subjectwise Analysis
-    * Filtering Data
-    * Group Analysis
-    * Saving the New Dataset
-    * Building a Student Pass Predictor
-
-### [Basic Overview of Project](Student_Performance_Analysis_Project/README.md)
 
 ---
 
