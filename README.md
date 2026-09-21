@@ -4,7 +4,7 @@
 ---
 ## 📂 - Student_Performance_Analysis_Project
 
-### 🐼 [Pandas Mini Project (Soon)](Student_Performance_Analysis_Project/01_mini_project_pandas.ipynb)
+### 🐼 [Pandas Mini Project](Student_Performance_Analysis_Project/01_mini_project_pandas.ipynb)
     * Student Performance Analysis
     * Importing DataFrame
     * Creating DataFrame
@@ -16,6 +16,7 @@
     * Filtering Data
     * Group Analysis
     * Saving the New Dataset
+    * Building a Student Pass Predictor
 
 ### [Basic Overview of Project](Student_Performance_Analysis_Project/README.md)
 
